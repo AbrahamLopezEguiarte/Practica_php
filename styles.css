@@ -1,0 +1,54 @@
+*{
+    background-color: #fae1dd;
+}
+
+header{
+    text-align: center;
+}
+
+form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+table, th, td{
+    border: 3px solid #031926;
+    border-collapse: collapse;
+    padding: 5px 30px;
+}
+
+table{
+    margin: auto;
+}
+
+div{
+    text-align: center;
+    margin-bottom: 10px;
+    color: #2a6f97;
+}
+
+a:link{
+    color: #2a6f97;
+    text-decoration: none;
+}
+
+a:visited{
+    color: #013a63;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #48cae4;
+    text-decoration: none;
+}
+
+a:active{
+    color: #023e8a;
+    text-decoration: none;
+}
+
+input{
+    margin: 0px 5px;
+}
